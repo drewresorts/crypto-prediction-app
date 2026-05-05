@@ -1,0 +1,46 @@
+name: crypto-prediction-app
+region: sfo
+
+services:
+  - name: backend
+    dockerfile_path: backend/Dockerfile
+    source_dir: /
+    http_port: 8000
+    routes:
+      - path: /api
+    envs:
+      - key: DATABASE_URL
+        scope: RUN_TIME
+        value: ${db.DATABASE_URL}
+      - key: LIVE_SYMBOL
+        scope: RUN_TIME
+        value: BTCUSDT
+      - key: LIVE_INTERVAL
+        scope: RUN_TIME
+        value: 1m
+      - key: LIVE_MARKET
+        scope: RUN_TIME
+        value: spot
+      - key: LIVE_HORIZON_MINUTES
+        scope: RUN_TIME
+        value: "15"
+      - key: MODEL_ARTIFACT_PATH
+        scope: RUN_TIME
+        value: ""
+
+  - name: frontend
+    dockerfile_path: frontend/Dockerfile
+    source_dir: /
+    http_port: 3000
+    routes:
+      - path: /
+    envs:
+      - key: NEXT_PUBLIC_API_BASE
+        scope: BUILD_TIME
+        value: https://${APP_DOMAIN}/api
+
+databases:
+  - name: db
+    engine: PG
+    version: "16"
+
