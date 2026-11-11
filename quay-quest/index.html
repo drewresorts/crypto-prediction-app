@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Quay Quest</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+  /* Layout: one centred handheld screen on a dark "CRT bezel", touch pad underneath on phones. */
+  :root { --ink: #0b0912; --bezel: #1b1630; --edge: #2c2548; --text: #f4ecd8; --dim: #8d86a8; --gold: #ffd23f; color-scheme: dark; }
+  html, body { height: 100%; }
+  body { margin: 0; background: var(--ink); color: var(--text); font: 13px/1.5 ui-monospace, Menlo, Consolas, monospace;
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding-block: 12px; box-sizing: border-box;
+    -webkit-user-select: none; user-select: none; touch-action: manipulation; }
+  .wrap { width: 100%; max-width: 1280px; display: flex; justify-content: center; }
+  canvas { display: block; image-rendering: pixelated; image-rendering: crisp-edges; background: var(--ink);
+    border: 4px solid var(--bezel); outline: 2px solid var(--edge); border-radius: 6px; max-width: 100%; }
+  .help { color: var(--dim); text-align: center; max-width: 640px; }
+  .help b { color: var(--gold); font-weight: normal; }
+  #err { color: #ff5d5d; }
+  .pad { display: none; width: 100%; max-width: 420px; justify-content: space-between; align-items: center; }
+  body.touch .pad { display: flex; }
+  body.touch .help { display: none; }
+  .dpad { display: grid; grid-template-columns: repeat(3, 52px); grid-template-rows: repeat(3, 52px); gap: 4px; }
+  .pad button { background: var(--bezel); color: var(--text); border: 2px solid var(--edge); border-radius: 10px; font: inherit; font-size: 18px; touch-action: none; }
+  .pad button.down { background: var(--edge); border-color: var(--gold); }
+  .pad button:focus-visible { outline: 2px solid var(--gold); }
+  .ab { display: flex; gap: 14px; align-items: center; }
+  .ab button { width: 64px; height: 64px; border-radius: 50%; font-size: 20px; }
+  .ab .a { background: #3a2f10; border-color: var(--gold); }
+</style>
+</head>
+<body>
+<div class="wrap"><canvas id="screen" width="320" height="240" aria-label="Quay Quest game screen"></canvas></div>
+<p class="help"><b>Arrows/WASD</b> move &nbsp; <b>Z / Enter / Space</b> talk, confirm &nbsp; <b>X / Esc</b> menu, back (hold to fast-forward text) &nbsp; <b>M</b> sound</p>
+<div class="pad" aria-label="Touch controls">
+  <div class="dpad">
+    <span></span><button data-key="up" aria-label="Up">&#9650;</button><span></span>
+    <button data-key="left" aria-label="Left">&#9664;</button><span></span><button data-key="right" aria-label="Right">&#9654;</button>
+    <span></span><button data-key="down" aria-label="Down">&#9660;</button><span></span>
+  </div>
+  <div class="ab"><button class="b" data-key="b" aria-label="Back / menu">B</button><button class="a" data-key="a" aria-label="Confirm / talk">A</button></div>
+</div>
+<p id="err"></p>
+<script src="js/atlas.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/tiles.js"></script>
+<script src="js/data.js"></script>
+<script src="js/game.js"></script>
+<script src="js/world.js"></script>
+<script src="js/battle.js"></script>
+<script src="js/menus.js"></script>
+<script src="js/story.js"></script>
+<script src="js/maps.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

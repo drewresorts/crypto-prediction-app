@@ -1,0 +1,236 @@
+# name | search query used on the pixel-search index | result rank picked (0-based, of top 16; party/sage/beggar/henchman/police/hood queries used top 32)
+# --- party & story characters
+kaz | teenager in hoodie | 0
+biggz | bouncer big bald man | 8
+shay | girl with ponytail | 12
+gaz | beggar | 21
+sage | hermit old man with beard | 2
+pulon | rich tycoon businessman gold | 0
+pulon2 | businessman in suit | 19
+henchman | henchman in black suit | 11
+henchman2 | henchman in black suit | 1
+opp_blue | hooded figure | 16
+opp_red | hooded figure | 20
+opp_black | hooded figure | 0
+police | police officer | 0
+police2 | police officer | 12
+detective | detective | 0
+guard | security guard | 0
+oldwoman | old woman | 0
+oldman | old man | 0
+man | man | 0
+man2 | man | 13
+woman | woman | 0
+boy | boy | 0
+boy2 | boy | 15
+girl | teenage girl | 0
+shopkeeper | shopkeeper | 5
+shopkeeper2 | shopkeeper | 13
+chef | chef | 0
+officeworker | office worker | 0
+agent | businesswoman | 0
+builder | construction worker | 0
+builder2 | construction worker | 12
+hardman | strongman | 0
+boxer | boxer | 12
+noble | nobleman | 0
+lady | noblewoman | 0
+butler | butler | 0
+farmer | farmer with pitchfork | 1
+fisherman | fisherman | 0
+sailor | navy sailor | 0
+docker | navy sailor | 7
+customs | navy sailor | 12
+admiral | rich tycoon businessman gold | 3
+influencer | artist painter | 0
+barista | barista | 0
+nurse | nurse | 0
+librarian | teacher | 0
+nitty1 | beggar | 0
+nitty2 | beggar | 20
+nitty3 | beggar | 17
+# --- creatures & machines
+bulldog | bulldog | 2
+gshep | german shepherd | 0
+seagull | seagull | 0
+pigeon | pigeon | 0
+fox | fox | 2
+rat | rat | 0
+goose | goose | 0
+crab | crab | 0
+sheep | sheep | 0
+cow | cow | 0
+scarecrow | scarecrow | 0
+tractor | farm tractor | 0
+bulldozer | bulldozer | 0
+excavator | excavator | 0
+drone | drone | 9
+robot | robot | 0
+bandit | slot machine | 0
+ghost | ghost | 0
+# --- outdoor props
+tree | oak tree | 0
+tree2 | oak tree | 13
+deadtree | oak tree | 3
+hedge | trimmed hedge | 10
+bush | leafy bush | 0
+fence | fence segment | 0
+picket | picket fence | 0
+ironfence | picket fence | 11
+lamp | lamp post | 0
+bench | park bench | 0
+brick | brick wall segment | 0
+brick2 | brick wall segment | 11
+stone | stone brick block | 5
+shutter | corrugated sheet | 0
+window | square window | 5
+window_lit | square window | 7
+door | door | 0
+door_red | door | 4
+door_white | door | 10
+ddoor | double door | 0
+phonebox | phone booth | 4
+bin | trash can | 0
+wheelie | trash can | 9
+dumpster | dumpster | 0
+busstop | bus stop sign | 0
+bus | double-decker bus | 7
+policecar | police car | 0
+car | car | 0
+car2 | car | 11
+van | delivery van | 0
+cone | traffic cone | 0
+barrier | road barrier | 0
+trolley | shopping cart | 0
+bike | bicycle | 0
+moped | moped | 0
+manhole | manhole cover | 0
+container_o | shipping container | 6
+container_r | shipping container | 8
+container_b | shipping container | 15
+crates | stack of crates | 0
+barrel | barrel | 0
+bollard | dock bollard | 0
+ship | cargo ship | 0
+boat | fishing boat | 0
+anchor | anchor | 0
+lighthouse | lighthouse | 0
+signpost | signpost | 0
+haybale | hay bale | 0
+train | train carriage | 7
+house | tiny house | 0
+shop | storefront | 8
+shed | apartment building | 10
+barn | apartment building | 5
+pubsign | hanging tavern sign | 0
+fountain | fountain | 3
+statue | statue | 0
+tombstone | tombstone | 0
+flowerpot | flower pot | 0
+sunflower | sunflower | 0
+stump | tree stump | 0
+rock | rock | 0
+campfire | campfire | 0
+chest | treasure chest | 0
+chest_open | treasure chest | 4
+safe | wall safe | 0
+# --- indoor props
+arcade | arcade machine | 0
+vending | vending machine | 0
+pooltable | pool table | 7
+bookshelf | bookshelf | 0
+bookshelf2 | bookshelf | 9
+bed | bed | 5
+sofa | sofa | 0
+tv | retro tv set | 0
+table | table | 0
+chair | chair | 0
+fridge | mini fridge | 0
+toilet | toilet | 3
+computer | desktop computer | 0
+counter | shop counter | 7
+# --- items
+cash | stack of banknotes cash | 0
+pound | pound sterling sign | 1
+burner | flip phone | 0
+smartphone | smartphone | 0
+energy | energy drink can | 0
+chicken | fried chicken bucket | 5
+kebab | doner kebab | 2
+chips | fish and chips | 9
+pie | meat pie | 0
+tea | cup of tea | 0
+pint | pint of stout | 0
+pouch | small plastic bag | 9
+duffel | small plastic bag | 10
+bud | herb leaf green | 9
+light | white crystal | 15
+dark | amulet white stone copper | 8
+pills | pill bottle | 0
+plaster | adhesive bandage | 0
+medkit | first aid kit | 0
+hoodie | hoodie black | 0
+puffer | puffer jacket | 0
+puffer_w | puffer jacket | 1
+tracksuit | tracksuit jacket | 0
+tracksuit_r | tracksuit jacket | 8
+trainers | sneakers | 0
+trainers_w | sneakers | 3
+bally | balaclava ski mask | 0
+chain | gold chain necklace | 1
+medallion | gold chain necklace | 13
+amulet | amulet | 1
+bat | baseball bat | 0
+cricketbat | cricket bat | 0
+dlock | bike lock | 0
+crowbar | crowbar | 0
+pan | frying pan | 0
+vest | bulletproof vest | 10
+cap | baseball cap | 0
+buckethat | bucket hat | 7
+shades | sunglasses | 0
+watch | gold wristwatch | 5
+ring | signet ring | 7
+backpack | backpack | 0
+golfclub | golf club | 0
+brolly | umbrella | 0
+rollingpin | rolling pin | 0
+bottle | glass bottle | 8
+brickitem | brick | 0
+newspaper | newspaper | 0
+book | ancient book | 0
+map | treasure map | 0
+ticket | train ticket | 1
+key | door key | 1
+card | credit card | 4
+scratchcard | lottery ticket | 14
+laptop | laptop | 0
+megaphone | megaphone | 0
+trophy | trophy | 0
+potnoodle | instant noodles cup | 1
+sausageroll | sausage roll | 2
+crisps | bag of chips | 0
+chocolate | chocolate bar | 0
+champagne | champagne bottle | 0
+icecream | ice cream cone | 0
+coffee | coffee cup | 0
+scone | scone | 0
+# --- battle effects & UI icons
+fx_boom | explosion | 7
+fx_slash | slash effect | 1
+fx_slash_r | slash effect | 4
+fx_sparkle | sparkle | 0
+fx_sparkle_b | sparkle | 1
+fx_smoke | smoke cloud | 0
+fx_bolt | lightning bolt | 0
+fx_fist | fist punch | 5
+fx_fire | fire | 5
+fx_poison | poison bubble | 0
+fx_note | music note | 3
+ic_skull | skull icon | 0
+ic_heart | heart icon | 0
+ic_shield | shield icon | 1
+ic_speech | speech bubble | 0
+ic_excl | exclamation mark | 5
+ic_hand | pointing hand cursor | 6
+ic_star | star icon | 0
