@@ -1,0 +1,1834 @@
+[
+ {
+  "name": "kaz",
+  "query": "teenager in hoodie",
+  "rank": 0,
+  "sprite_id": 1262648,
+  "subject": "teenager",
+  "caption": "lanky teenager with a hoodie"
+ },
+ {
+  "name": "biggz",
+  "query": "bouncer big bald man",
+  "rank": 8,
+  "sprite_id": 750096,
+  "subject": "man",
+  "caption": "bald man with a jacket"
+ },
+ {
+  "name": "shay",
+  "query": "girl with ponytail",
+  "rank": 12,
+  "sprite_id": 524722,
+  "subject": "girl",
+  "caption": "small black girl with a ponytail"
+ },
+ {
+  "name": "gaz",
+  "query": "beggar",
+  "rank": 21,
+  "sprite_id": 87455,
+  "subject": "beggar",
+  "caption": "barefoot beggar with a patched cloak in muted colors"
+ },
+ {
+  "name": "sage",
+  "query": "hermit old man with beard",
+  "rank": 2,
+  "sprite_id": 598742,
+  "subject": "hermit",
+  "caption": "barefoot hermit with a long tangled beard in muted colors"
+ },
+ {
+  "name": "pulon",
+  "query": "rich tycoon businessman gold",
+  "rank": 0,
+  "sprite_id": 167979,
+  "subject": "businessman",
+  "caption": "businessman"
+ },
+ {
+  "name": "pulon2",
+  "query": "businessman in suit",
+  "rank": 19,
+  "sprite_id": 168146,
+  "subject": "businessman",
+  "caption": "smug red businessman with a suit and tie"
+ },
+ {
+  "name": "henchman",
+  "query": "henchman in black suit",
+  "rank": 11,
+  "sprite_id": 597298,
+  "subject": "henchman",
+  "caption": "three-quarter-view black henchman with a bald head"
+ },
+ {
+  "name": "henchman2",
+  "query": "henchman in black suit",
+  "rank": 1,
+  "sprite_id": 597136,
+  "subject": "henchman",
+  "caption": "black henchman with a flat cap in muted colors"
+ },
+ {
+  "name": "opp_blue",
+  "query": "hooded figure",
+  "rank": 16,
+  "sprite_id": 613900,
+  "subject": "hooded figure",
+  "caption": "blue hooded figure with a hidden face"
+ },
+ {
+  "name": "opp_red",
+  "query": "hooded figure",
+  "rank": 20,
+  "sprite_id": 613904,
+  "subject": "hooded figure",
+  "caption": "crimson hooded figure with long sleeves"
+ },
+ {
+  "name": "opp_black",
+  "query": "hooded figure",
+  "rank": 0,
+  "sprite_id": 613884,
+  "subject": "hooded figure",
+  "caption": "hooded figure"
+ },
+ {
+  "name": "police",
+  "query": "police officer",
+  "rank": 0,
+  "sprite_id": 947446,
+  "subject": "police officer",
+  "caption": "police officer"
+ },
+ {
+  "name": "police2",
+  "query": "police officer",
+  "rank": 12,
+  "sprite_id": 947458,
+  "subject": "police officer",
+  "caption": "arms-crossed navy police officer with a radio"
+ },
+ {
+  "name": "detective",
+  "query": "detective",
+  "rank": 0,
+  "sprite_id": 345128,
+  "subject": "detective",
+  "caption": "top-down lean detective"
+ },
+ {
+  "name": "guard",
+  "query": "security guard",
+  "rank": 0,
+  "sprite_id": 1076401,
+  "subject": "security guard",
+  "caption": "stern security guard"
+ },
+ {
+  "name": "oldwoman",
+  "query": "old woman",
+  "rank": 0,
+  "sprite_id": 842834,
+  "subject": "old woman",
+  "caption": "old woman with a shawl"
+ },
+ {
+  "name": "oldman",
+  "query": "old man",
+  "rank": 0,
+  "sprite_id": 842147,
+  "subject": "old man",
+  "caption": "three-quarter-view shuffling old man"
+ },
+ {
+  "name": "man",
+  "query": "man",
+  "rank": 0,
+  "sprite_id": 750059,
+  "subject": "man",
+  "caption": "man"
+ },
+ {
+  "name": "man2",
+  "query": "man",
+  "rank": 13,
+  "sprite_id": 750072,
+  "subject": "man",
+  "caption": "arms-crossed man"
+ },
+ {
+  "name": "woman",
+  "query": "woman",
+  "rank": 0,
+  "sprite_id": 1391715,
+  "subject": "woman",
+  "caption": "woman"
+ },
+ {
+  "name": "boy",
+  "query": "boy",
+  "rank": 0,
+  "sprite_id": 142851,
+  "subject": "boy",
+  "caption": "top-down skinny boy"
+ },
+ {
+  "name": "boy2",
+  "query": "boy",
+  "rank": 15,
+  "sprite_id": 142866,
+  "subject": "boy",
+  "caption": "barefoot boy with a cap"
+ },
+ {
+  "name": "girl",
+  "query": "teenage girl",
+  "rank": 0,
+  "sprite_id": 524572,
+  "subject": "girl",
+  "caption": "petite girl in flat colors"
+ },
+ {
+  "name": "shopkeeper",
+  "query": "shopkeeper",
+  "rank": 5,
+  "sprite_id": 1097620,
+  "subject": "shopkeeper",
+  "caption": "arms-crossed shopkeeper with sleeve garters"
+ },
+ {
+  "name": "shopkeeper2",
+  "query": "shopkeeper",
+  "rank": 13,
+  "sprite_id": 1097628,
+  "subject": "shopkeeper",
+  "caption": "arms-crossed blue shopkeeper"
+ },
+ {
+  "name": "chef",
+  "query": "chef",
+  "rank": 0,
+  "sprite_id": 224720,
+  "subject": "chef",
+  "caption": "chef"
+ },
+ {
+  "name": "officeworker",
+  "query": "office worker",
+  "rank": 0,
+  "sprite_id": 839927,
+  "subject": "office worker",
+  "caption": "front-view lean office worker"
+ },
+ {
+  "name": "agent",
+  "query": "businesswoman",
+  "rank": 0,
+  "sprite_id": 168214,
+  "subject": "businesswoman",
+  "caption": "businesswoman"
+ },
+ {
+  "name": "builder",
+  "query": "construction worker",
+  "rank": 0,
+  "sprite_id": 280770,
+  "subject": "construction worker",
+  "caption": "stocky construction worker in flat colors"
+ },
+ {
+  "name": "builder2",
+  "query": "construction worker",
+  "rank": 12,
+  "sprite_id": 280782,
+  "subject": "construction worker",
+  "caption": "blue construction worker with a shovel"
+ },
+ {
+  "name": "hardman",
+  "query": "strongman",
+  "rank": 0,
+  "sprite_id": 1218767,
+  "subject": "strongman",
+  "caption": "front-view straining strongman in flat colors"
+ },
+ {
+  "name": "boxer",
+  "query": "boxer",
+  "rank": 12,
+  "sprite_id": 141902,
+  "subject": "boxer",
+  "caption": "blocking boxer with taped wrists"
+ },
+ {
+  "name": "noble",
+  "query": "nobleman",
+  "rank": 0,
+  "sprite_id": 830286,
+  "subject": "nobleman",
+  "caption": "front-view strolling nobleman"
+ },
+ {
+  "name": "lady",
+  "query": "noblewoman",
+  "rank": 0,
+  "sprite_id": 830539,
+  "subject": "noblewoman",
+  "caption": "top-down elegant noblewoman"
+ },
+ {
+  "name": "butler",
+  "query": "butler",
+  "rank": 0,
+  "sprite_id": 168934,
+  "subject": "butler",
+  "caption": "butler with a tailcoat in flat colors"
+ },
+ {
+  "name": "farmer",
+  "query": "farmer with pitchfork",
+  "rank": 1,
+  "sprite_id": 430730,
+  "subject": "farmer",
+  "caption": "farmer with a pitchfork"
+ },
+ {
+  "name": "fisherman",
+  "query": "fisherman",
+  "rank": 0,
+  "sprite_id": 454178,
+  "subject": "fisherman",
+  "caption": "three-quarter-view stout fisherman"
+ },
+ {
+  "name": "sailor",
+  "query": "navy sailor",
+  "rank": 0,
+  "sprite_id": 821012,
+  "subject": "navy sailor",
+  "caption": "three-quarter-view navy sailor with a neckerchief"
+ },
+ {
+  "name": "docker",
+  "query": "navy sailor",
+  "rank": 7,
+  "sprite_id": 821019,
+  "subject": "navy sailor",
+  "caption": "stout teal navy sailor with gloves in earthy colors"
+ },
+ {
+  "name": "customs",
+  "query": "navy sailor",
+  "rank": 12,
+  "sprite_id": 821024,
+  "subject": "navy sailor",
+  "caption": "black navy sailor with a neckerchief"
+ },
+ {
+  "name": "admiral",
+  "query": "rich tycoon businessman gold",
+  "rank": 3,
+  "sprite_id": 167982,
+  "subject": "businessman",
+  "caption": "old navy businessman with a smartphone"
+ },
+ {
+  "name": "influencer",
+  "query": "artist painter",
+  "rank": 0,
+  "sprite_id": 904442,
+  "subject": "photographer",
+  "caption": "crouched photographer"
+ },
+ {
+  "name": "barista",
+  "query": "barista",
+  "rank": 0,
+  "sprite_id": 65599,
+  "subject": "barista",
+  "caption": "three-quarter-view busy barista"
+ },
+ {
+  "name": "nurse",
+  "query": "nurse",
+  "rank": 0,
+  "sprite_id": 834378,
+  "subject": "nurse",
+  "caption": "nurse"
+ },
+ {
+  "name": "librarian",
+  "query": "teacher",
+  "rank": 0,
+  "sprite_id": 1259634,
+  "subject": "teacher",
+  "caption": "teacher"
+ },
+ {
+  "name": "nitty1",
+  "query": "beggar",
+  "rank": 0,
+  "sprite_id": 87434,
+  "subject": "beggar",
+  "caption": "ragged beggar"
+ },
+ {
+  "name": "nitty2",
+  "query": "beggar",
+  "rank": 20,
+  "sprite_id": 87454,
+  "subject": "beggar",
+  "caption": "barefoot beggar with a patched cloak"
+ },
+ {
+  "name": "nitty3",
+  "query": "beggar",
+  "rank": 17,
+  "sprite_id": 87451,
+  "subject": "beggar",
+  "caption": "barefoot beggar with a belt pouch"
+ },
+ {
+  "name": "bulldog",
+  "query": "bulldog",
+  "rank": 2,
+  "sprite_id": 159103,
+  "subject": "bulldog",
+  "caption": "squat bulldog with a broad chest"
+ },
+ {
+  "name": "gshep",
+  "query": "german shepherd",
+  "rank": 0,
+  "sprite_id": 515387,
+  "subject": "german shepherd",
+  "caption": "german shepherd"
+ },
+ {
+  "name": "seagull",
+  "query": "seagull",
+  "rank": 0,
+  "sprite_id": 1073620,
+  "subject": "seagull",
+  "caption": "wet seagull"
+ },
+ {
+  "name": "pigeon",
+  "query": "pigeon",
+  "rank": 0,
+  "sprite_id": 909215,
+  "subject": "pigeon",
+  "caption": "pigeon"
+ },
+ {
+  "name": "fox",
+  "query": "fox",
+  "rank": 2,
+  "sprite_id": 486289,
+  "subject": "fox",
+  "caption": "cute fox with a fluffy chest"
+ },
+ {
+  "name": "rat",
+  "query": "rat",
+  "rank": 0,
+  "sprite_id": 351996,
+  "subject": "dire rat",
+  "caption": "dire rat"
+ },
+ {
+  "name": "goose",
+  "query": "goose",
+  "rank": 0,
+  "sprite_id": 544660,
+  "subject": "goose",
+  "caption": "charging goose"
+ },
+ {
+  "name": "crab",
+  "query": "crab",
+  "rank": 0,
+  "sprite_id": 293838,
+  "subject": "crab",
+  "caption": "crab"
+ },
+ {
+  "name": "sheep",
+  "query": "sheep",
+  "rank": 0,
+  "sprite_id": 1087896,
+  "subject": "sheep",
+  "caption": "sheep"
+ },
+ {
+  "name": "cow",
+  "query": "cow",
+  "rank": 0,
+  "sprite_id": 291560,
+  "subject": "cow",
+  "caption": "cow"
+ },
+ {
+  "name": "scarecrow",
+  "query": "scarecrow",
+  "rank": 0,
+  "sprite_id": 1061649,
+  "subject": "scarecrow",
+  "caption": "scarecrow"
+ },
+ {
+  "name": "tractor",
+  "query": "farm tractor",
+  "rank": 0,
+  "sprite_id": 430457,
+  "subject": "farm tractor",
+  "caption": "farm tractor"
+ },
+ {
+  "name": "bulldozer",
+  "query": "bulldozer",
+  "rank": 0,
+  "sprite_id": 159350,
+  "subject": "bulldozer",
+  "caption": "bulldozer"
+ },
+ {
+  "name": "excavator",
+  "query": "excavator",
+  "rank": 0,
+  "sprite_id": 420714,
+  "subject": "excavator",
+  "caption": "excavator"
+ },
+ {
+  "name": "drone",
+  "query": "drone",
+  "rank": 9,
+  "sprite_id": 378909,
+  "subject": "drone",
+  "caption": "prototype white drone with a glowing red core"
+ },
+ {
+  "name": "robot",
+  "query": "robot",
+  "rank": 0,
+  "sprite_id": 1011487,
+  "subject": "robot",
+  "caption": "front-view stiff robot"
+ },
+ {
+  "name": "bandit",
+  "query": "slot machine",
+  "rank": 0,
+  "sprite_id": 1131849,
+  "subject": "slot machine",
+  "caption": "slot machine"
+ },
+ {
+  "name": "ghost",
+  "query": "ghost",
+  "rank": 0,
+  "sprite_id": 516057,
+  "subject": "ghost",
+  "caption": "ghost"
+ },
+ {
+  "name": "tree",
+  "query": "oak tree",
+  "rank": 0,
+  "sprite_id": 835064,
+  "subject": "oak tree",
+  "caption": "oak tree"
+ },
+ {
+  "name": "tree2",
+  "query": "oak tree",
+  "rank": 13,
+  "sprite_id": 835077,
+  "subject": "oak tree",
+  "caption": "ancient oak tree with a hollow in the trunk"
+ },
+ {
+  "name": "deadtree",
+  "query": "oak tree",
+  "rank": 3,
+  "sprite_id": 835067,
+  "subject": "oak tree",
+  "caption": "bare oak tree with a hollow in the trunk in flat colors"
+ },
+ {
+  "name": "hedge",
+  "query": "trimmed hedge",
+  "rank": 10,
+  "sprite_id": 1308936,
+  "subject": "trimmed hedge",
+  "caption": "boxy trimmed hedge"
+ },
+ {
+  "name": "bush",
+  "query": "leafy bush",
+  "rank": 0,
+  "sprite_id": 705796,
+  "subject": "leafy bush",
+  "caption": "leafy bush"
+ },
+ {
+  "name": "fence",
+  "query": "fence segment",
+  "rank": 0,
+  "sprite_id": 435802,
+  "subject": "fence segment",
+  "caption": "fence segment"
+ },
+ {
+  "name": "picket",
+  "query": "picket fence",
+  "rank": 0,
+  "sprite_id": 905811,
+  "subject": "picket fence",
+  "caption": "picket fence"
+ },
+ {
+  "name": "ironfence",
+  "query": "picket fence",
+  "rank": 11,
+  "sprite_id": 905822,
+  "subject": "picket fence",
+  "caption": "black picket fence with a small crack"
+ },
+ {
+  "name": "lamp",
+  "query": "lamp post",
+  "rank": 0,
+  "sprite_id": 694548,
+  "subject": "lamp post",
+  "caption": "lamp post"
+ },
+ {
+  "name": "bench",
+  "query": "park bench",
+  "rank": 0,
+  "sprite_id": 878875,
+  "subject": "park bench",
+  "caption": "park bench"
+ },
+ {
+  "name": "brick",
+  "query": "brick wall segment",
+  "rank": 0,
+  "sprite_id": 149403,
+  "subject": "brick wall segment",
+  "caption": "brick wall segment"
+ },
+ {
+  "name": "brick2",
+  "query": "brick wall segment",
+  "rank": 11,
+  "sprite_id": 149414,
+  "subject": "brick wall segment",
+  "caption": "ancient brick wall segment with a carved emblem"
+ },
+ {
+  "name": "stone",
+  "query": "stone brick block",
+  "rank": 5,
+  "sprite_id": 1206907,
+  "subject": "stone brick block",
+  "caption": "side-view gray stone brick block with thick mortar"
+ },
+ {
+  "name": "shutter",
+  "query": "corrugated sheet",
+  "rank": 0,
+  "sprite_id": 288544,
+  "subject": "corrugated sheet",
+  "caption": "corrugated sheet"
+ },
+ {
+  "name": "window",
+  "query": "square window",
+  "rank": 5,
+  "sprite_id": 1182216,
+  "subject": "square window",
+  "caption": "gray square window with snow on the sill"
+ },
+ {
+  "name": "window_lit",
+  "query": "square window",
+  "rank": 7,
+  "sprite_id": 1182218,
+  "subject": "square window",
+  "caption": "tiny square window with light shining through"
+ },
+ {
+  "name": "door",
+  "query": "door",
+  "rank": 0,
+  "sprite_id": 360222,
+  "subject": "door",
+  "caption": "door"
+ },
+ {
+  "name": "door_red",
+  "query": "door",
+  "rank": 4,
+  "sprite_id": 360226,
+  "subject": "door",
+  "caption": "half-open red door with panel inserts in warm colors"
+ },
+ {
+  "name": "door_white",
+  "query": "door",
+  "rank": 10,
+  "sprite_id": 360232,
+  "subject": "door",
+  "caption": "top-down white door with a mail slot in bright colors"
+ },
+ {
+  "name": "ddoor",
+  "query": "double door",
+  "rank": 0,
+  "sprite_id": 363365,
+  "subject": "double door",
+  "caption": "double door"
+ },
+ {
+  "name": "phonebox",
+  "query": "phone booth",
+  "rank": 4,
+  "sprite_id": 903305,
+  "subject": "phone booth",
+  "caption": "domed white phone booth with paned windows in warm colors"
+ },
+ {
+  "name": "bin",
+  "query": "trash can",
+  "rank": 0,
+  "sprite_id": 1300325,
+  "subject": "trash can",
+  "caption": "trash can"
+ },
+ {
+  "name": "wheelie",
+  "query": "trash can",
+  "rank": 9,
+  "sprite_id": 1300334,
+  "subject": "trash can",
+  "caption": "brand new green trash can with a white stripe"
+ },
+ {
+  "name": "dumpster",
+  "query": "dumpster",
+  "rank": 0,
+  "sprite_id": 384609,
+  "subject": "dumpster",
+  "caption": "wheeled dumpster"
+ },
+ {
+  "name": "busstop",
+  "query": "bus stop sign",
+  "rank": 0,
+  "sprite_id": 167076,
+  "subject": "bus stop sign",
+  "caption": "bus stop sign"
+ },
+ {
+  "name": "bus",
+  "query": "double-decker bus",
+  "rank": 7,
+  "sprite_id": 365509,
+  "subject": "double-decker bus",
+  "caption": "tiny double-decker bus with a few scratches"
+ },
+ {
+  "name": "policecar",
+  "query": "police car",
+  "rank": 0,
+  "sprite_id": 947199,
+  "subject": "police car",
+  "caption": "police car"
+ },
+ {
+  "name": "car",
+  "query": "car",
+  "rank": 0,
+  "sprite_id": 193878,
+  "subject": "car",
+  "caption": "car"
+ },
+ {
+  "name": "car2",
+  "query": "car",
+  "rank": 11,
+  "sprite_id": 193889,
+  "subject": "car",
+  "caption": "angled gray car with chrome bumpers in bright colors"
+ },
+ {
+  "name": "van",
+  "query": "delivery van",
+  "rank": 0,
+  "sprite_id": 341198,
+  "subject": "delivery van",
+  "caption": "delivery van"
+ },
+ {
+  "name": "cone",
+  "query": "traffic cone",
+  "rank": 0,
+  "sprite_id": 1296944,
+  "subject": "traffic cone",
+  "caption": "traffic cone"
+ },
+ {
+  "name": "barrier",
+  "query": "road barrier",
+  "rank": 0,
+  "sprite_id": 1008739,
+  "subject": "road barrier",
+  "caption": "road barrier"
+ },
+ {
+  "name": "trolley",
+  "query": "shopping cart",
+  "rank": 0,
+  "sprite_id": 1098367,
+  "subject": "shopping cart",
+  "caption": "shopping cart"
+ },
+ {
+  "name": "bike",
+  "query": "bicycle",
+  "rank": 0,
+  "sprite_id": 94144,
+  "subject": "bicycle",
+  "caption": "bicycle"
+ },
+ {
+  "name": "moped",
+  "query": "moped",
+  "rank": 0,
+  "sprite_id": 798529,
+  "subject": "moped",
+  "caption": "moped"
+ },
+ {
+  "name": "manhole",
+  "query": "manhole cover",
+  "rank": 0,
+  "sprite_id": 754023,
+  "subject": "manhole cover",
+  "caption": "manhole cover"
+ },
+ {
+  "name": "container_o",
+  "query": "shipping container",
+  "rank": 6,
+  "sprite_id": 1094804,
+  "subject": "shipping container",
+  "caption": "side-view orange shipping container with double doors"
+ },
+ {
+  "name": "container_r",
+  "query": "shipping container",
+  "rank": 8,
+  "sprite_id": 1094806,
+  "subject": "shipping container",
+  "caption": "tall shipping container with a stenciled number in muted colors"
+ },
+ {
+  "name": "container_b",
+  "query": "shipping container",
+  "rank": 15,
+  "sprite_id": 1094813,
+  "subject": "shipping container",
+  "caption": "blue shipping container with double doors"
+ },
+ {
+  "name": "crates",
+  "query": "stack of crates",
+  "rank": 0,
+  "sprite_id": 1185106,
+  "subject": "stack of crates",
+  "caption": "stack of crates"
+ },
+ {
+  "name": "barrel",
+  "query": "barrel",
+  "rank": 0,
+  "sprite_id": 68338,
+  "subject": "barrel",
+  "caption": "barrel"
+ },
+ {
+  "name": "bollard",
+  "query": "dock bollard",
+  "rank": 0,
+  "sprite_id": 355892,
+  "subject": "dock bollard",
+  "caption": "dock bollard"
+ },
+ {
+  "name": "ship",
+  "query": "cargo ship",
+  "rank": 0,
+  "sprite_id": 197120,
+  "subject": "cargo ship",
+  "caption": "cargo ship"
+ },
+ {
+  "name": "boat",
+  "query": "fishing boat",
+  "rank": 0,
+  "sprite_id": 454650,
+  "subject": "fishing boat",
+  "caption": "side-view fishing boat"
+ },
+ {
+  "name": "anchor",
+  "query": "anchor",
+  "rank": 0,
+  "sprite_id": 16379,
+  "subject": "anchor",
+  "caption": "anchor"
+ },
+ {
+  "name": "lighthouse",
+  "query": "lighthouse",
+  "rank": 0,
+  "sprite_id": 717639,
+  "subject": "lighthouse",
+  "caption": "lighthouse"
+ },
+ {
+  "name": "signpost",
+  "query": "signpost",
+  "rank": 0,
+  "sprite_id": 1107963,
+  "subject": "signpost",
+  "caption": "signpost"
+ },
+ {
+  "name": "haybale",
+  "query": "hay bale",
+  "rank": 0,
+  "sprite_id": 585814,
+  "subject": "hay bale",
+  "caption": "hay bale"
+ },
+ {
+  "name": "train",
+  "query": "train carriage",
+  "rank": 7,
+  "sprite_id": 1298061,
+  "subject": "train carriage",
+  "caption": "side-view train carriage with sliding doors in warm colors"
+ },
+ {
+  "name": "house",
+  "query": "tiny house",
+  "rank": 0,
+  "sprite_id": 1279671,
+  "subject": "tiny house",
+  "caption": "tiny house"
+ },
+ {
+  "name": "shop",
+  "query": "storefront",
+  "rank": 8,
+  "sprite_id": 1211150,
+  "subject": "storefront",
+  "caption": "front-view brand new tan storefront with a striped awning"
+ },
+ {
+  "name": "shed",
+  "query": "apartment building",
+  "rank": 10,
+  "sprite_id": 857095,
+  "subject": "outhouse",
+  "caption": "leaning outhouse"
+ },
+ {
+  "name": "barn",
+  "query": "apartment building",
+  "rank": 5,
+  "sprite_id": 66764,
+  "subject": "barn",
+  "caption": "barn"
+ },
+ {
+  "name": "pubsign",
+  "query": "hanging tavern sign",
+  "rank": 0,
+  "sprite_id": 578315,
+  "subject": "hanging tavern sign",
+  "caption": "hanging tavern sign"
+ },
+ {
+  "name": "fountain",
+  "query": "fountain",
+  "rank": 3,
+  "sprite_id": 484348,
+  "subject": "fountain",
+  "caption": "tiered white fountain with a carved bowl in warm colors"
+ },
+ {
+  "name": "statue",
+  "query": "statue",
+  "rank": 0,
+  "sprite_id": 1198377,
+  "subject": "statue on pedestal",
+  "caption": "statue on pedestal"
+ },
+ {
+  "name": "tombstone",
+  "query": "tombstone",
+  "rank": 0,
+  "sprite_id": 1284589,
+  "subject": "tombstone",
+  "caption": "tombstone"
+ },
+ {
+  "name": "flowerpot",
+  "query": "flower pot",
+  "rank": 0,
+  "sprite_id": 471298,
+  "subject": "flower pot",
+  "caption": "dusty flower pot"
+ },
+ {
+  "name": "sunflower",
+  "query": "sunflower",
+  "rank": 0,
+  "sprite_id": 1230613,
+  "subject": "sunflower",
+  "caption": "sunflower"
+ },
+ {
+  "name": "stump",
+  "query": "tree stump",
+  "rank": 0,
+  "sprite_id": 1304783,
+  "subject": "tree stump",
+  "caption": "tree stump"
+ },
+ {
+  "name": "rock",
+  "query": "rock",
+  "rank": 0,
+  "sprite_id": 1014281,
+  "subject": "rock",
+  "caption": "rock"
+ },
+ {
+  "name": "campfire",
+  "query": "campfire",
+  "rank": 0,
+  "sprite_id": 182136,
+  "subject": "campfire",
+  "caption": "lively campfire"
+ },
+ {
+  "name": "chest",
+  "query": "treasure chest",
+  "rank": 0,
+  "sprite_id": 1302426,
+  "subject": "treasure chest",
+  "caption": "treasure chest"
+ },
+ {
+  "name": "chest_open",
+  "query": "treasure chest",
+  "rank": 4,
+  "sprite_id": 1302430,
+  "subject": "treasure chest",
+  "caption": "front-view open treasure chest with riveted bands"
+ },
+ {
+  "name": "safe",
+  "query": "wall safe",
+  "rank": 0,
+  "sprite_id": 1345321,
+  "subject": "wall safe",
+  "caption": "front-view closed wall safe"
+ },
+ {
+  "name": "arcade",
+  "query": "arcade machine",
+  "rank": 0,
+  "sprite_id": 26820,
+  "subject": "arcade machine",
+  "caption": "arcade machine"
+ },
+ {
+  "name": "vending",
+  "query": "vending machine",
+  "rank": 0,
+  "sprite_id": 1332599,
+  "subject": "vending machine",
+  "caption": "front-view boxy vending machine"
+ },
+ {
+  "name": "pooltable",
+  "query": "pool table",
+  "rank": 7,
+  "sprite_id": 949596,
+  "subject": "pool table",
+  "caption": "top-down battered green pool table with a smooth top in bright colors"
+ },
+ {
+  "name": "bookshelf",
+  "query": "bookshelf",
+  "rank": 0,
+  "sprite_id": 123375,
+  "subject": "bookshelf",
+  "caption": "bookshelf"
+ },
+ {
+  "name": "bookshelf2",
+  "query": "bookshelf",
+  "rank": 9,
+  "sprite_id": 123384,
+  "subject": "bookshelf",
+  "caption": "blue bookshelf with a ladder rail"
+ },
+ {
+  "name": "bed",
+  "query": "bed",
+  "rank": 5,
+  "sprite_id": 83515,
+  "subject": "bed",
+  "caption": "front-view unmade bed with spindle posts in warm colors"
+ },
+ {
+  "name": "sofa",
+  "query": "sofa",
+  "rank": 0,
+  "sprite_id": 1147591,
+  "subject": "sofa",
+  "caption": "sofa"
+ },
+ {
+  "name": "tv",
+  "query": "retro tv set",
+  "rank": 0,
+  "sprite_id": 1000986,
+  "subject": "retro tv set",
+  "caption": "retro tv set"
+ },
+ {
+  "name": "table",
+  "query": "table",
+  "rank": 0,
+  "sprite_id": 1246022,
+  "subject": "table",
+  "caption": "table"
+ },
+ {
+  "name": "chair",
+  "query": "chair",
+  "rank": 0,
+  "sprite_id": 217733,
+  "subject": "chair",
+  "caption": "chair"
+ },
+ {
+  "name": "fridge",
+  "query": "mini fridge",
+  "rank": 0,
+  "sprite_id": 784858,
+  "subject": "mini fridge",
+  "caption": "three-quarter-view boxy mini fridge"
+ },
+ {
+  "name": "toilet",
+  "query": "toilet",
+  "rank": 3,
+  "sprite_id": 1282381,
+  "subject": "toilet",
+  "caption": "front-view wall-hung white toilet with a high tank"
+ },
+ {
+  "name": "computer",
+  "query": "desktop computer",
+  "rank": 0,
+  "sprite_id": 344869,
+  "subject": "desktop computer",
+  "caption": "desktop computer"
+ },
+ {
+  "name": "counter",
+  "query": "shop counter",
+  "rank": 7,
+  "sprite_id": 1097377,
+  "subject": "shop counter",
+  "caption": "long shop counter with chipped varnish"
+ },
+ {
+  "name": "cash",
+  "query": "stack of banknotes cash",
+  "rank": 0,
+  "sprite_id": 1184383,
+  "subject": "stack of banknotes",
+  "caption": "stack of banknotes"
+ },
+ {
+  "name": "pound",
+  "query": "pound sterling sign",
+  "rank": 1,
+  "sprite_id": 958207,
+  "subject": "pound sterling sign",
+  "caption": "blocky yellow pound sterling sign with serif ends"
+ },
+ {
+  "name": "burner",
+  "query": "flip phone",
+  "rank": 0,
+  "sprite_id": 465545,
+  "subject": "flip phone",
+  "caption": "flip phone"
+ },
+ {
+  "name": "smartphone",
+  "query": "smartphone",
+  "rank": 0,
+  "sprite_id": 1134604,
+  "subject": "smartphone",
+  "caption": "smartphone"
+ },
+ {
+  "name": "energy",
+  "query": "energy drink can",
+  "rank": 0,
+  "sprite_id": 414904,
+  "subject": "energy drink can",
+  "caption": "energy drink can"
+ },
+ {
+  "name": "chicken",
+  "query": "fried chicken bucket",
+  "rank": 5,
+  "sprite_id": 489744,
+  "subject": "fried chicken drumstick",
+  "caption": "golden fried chicken drumstick in a checkered paper tray"
+ },
+ {
+  "name": "kebab",
+  "query": "doner kebab",
+  "rank": 2,
+  "sprite_id": 671915,
+  "subject": "kebab skewer",
+  "caption": "hearty kebab skewer on a woven placemat"
+ },
+ {
+  "name": "chips",
+  "query": "fish and chips",
+  "rank": 9,
+  "sprite_id": 452641,
+  "subject": "fish and chips",
+  "caption": "hot fish and chips with a side of ketchup"
+ },
+ {
+  "name": "pie",
+  "query": "meat pie",
+  "rank": 0,
+  "sprite_id": 1089726,
+  "subject": "shepherd's pie",
+  "caption": "crusty shepherd's pie"
+ },
+ {
+  "name": "tea",
+  "query": "cup of tea",
+  "rank": 0,
+  "sprite_id": 321395,
+  "subject": "cup of tea",
+  "caption": "cozy cup of tea"
+ },
+ {
+  "name": "pint",
+  "query": "pint of stout",
+  "rank": 0,
+  "sprite_id": 918268,
+  "subject": "pint of stout",
+  "caption": "pint of stout"
+ },
+ {
+  "name": "pouch",
+  "query": "small plastic bag",
+  "rank": 9,
+  "sprite_id": 790650,
+  "subject": "money bag",
+  "caption": "side-view small money bag with a patched hole"
+ },
+ {
+  "name": "duffel",
+  "query": "small plastic bag",
+  "rank": 10,
+  "sprite_id": 562175,
+  "subject": "gym bag",
+  "caption": "battered black gym bag with a small tear"
+ },
+ {
+  "name": "bud",
+  "query": "herb leaf green",
+  "rank": 9,
+  "sprite_id": 648610,
+  "subject": "ivy leaf",
+  "caption": "dark green ivy leaf in flat colors"
+ },
+ {
+  "name": "light",
+  "query": "white crystal",
+  "rank": 15,
+  "sprite_id": 316754,
+  "subject": "cube crystal",
+  "caption": "cracked white cube crystal"
+ },
+ {
+  "name": "dark",
+  "query": "amulet white stone copper",
+  "rank": 8,
+  "sprite_id": 284304,
+  "subject": "copper ore",
+  "caption": "flat copper ore"
+ },
+ {
+  "name": "pills",
+  "query": "pill bottle",
+  "rank": 0,
+  "sprite_id": 912135,
+  "subject": "pill bottle",
+  "caption": "pill bottle"
+ },
+ {
+  "name": "plaster",
+  "query": "adhesive bandage",
+  "rank": 0,
+  "sprite_id": 3582,
+  "subject": "adhesive bandage",
+  "caption": "adhesive bandage"
+ },
+ {
+  "name": "medkit",
+  "query": "first aid kit",
+  "rank": 0,
+  "sprite_id": 451912,
+  "subject": "first aid kit",
+  "caption": "first aid kit"
+ },
+ {
+  "name": "hoodie",
+  "query": "hoodie black",
+  "rank": 0,
+  "sprite_id": 615084,
+  "subject": "hoodie",
+  "caption": "cropped black hoodie with a half zip in earthy colors"
+ },
+ {
+  "name": "puffer",
+  "query": "puffer jacket",
+  "rank": 0,
+  "sprite_id": 969829,
+  "subject": "puffer jacket",
+  "caption": "puffer jacket"
+ },
+ {
+  "name": "puffer_w",
+  "query": "puffer jacket",
+  "rank": 1,
+  "sprite_id": 969830,
+  "subject": "puffer jacket",
+  "caption": "front-view cropped white puffer jacket with silver buttons"
+ },
+ {
+  "name": "tracksuit",
+  "query": "tracksuit jacket",
+  "rank": 0,
+  "sprite_id": 1296722,
+  "subject": "tracksuit jacket",
+  "caption": "top-down baggy tracksuit jacket"
+ },
+ {
+  "name": "tracksuit_r",
+  "query": "tracksuit jacket",
+  "rank": 8,
+  "sprite_id": 1296730,
+  "subject": "tracksuit jacket",
+  "caption": "baggy red tracksuit jacket with a name tag"
+ },
+ {
+  "name": "trainers",
+  "query": "sneakers",
+  "rank": 0,
+  "sprite_id": 1139437,
+  "subject": "sneaker",
+  "caption": "worn sneaker"
+ },
+ {
+  "name": "trainers_w",
+  "query": "sneakers",
+  "rank": 3,
+  "sprite_id": 1139440,
+  "subject": "sneaker",
+  "caption": "side-view puffy white sneaker with a padded collar in high contrast"
+ },
+ {
+  "name": "bally",
+  "query": "balaclava ski mask",
+  "rank": 0,
+  "sprite_id": 51521,
+  "subject": "balaclava",
+  "caption": "balaclava"
+ },
+ {
+  "name": "chain",
+  "query": "gold chain necklace",
+  "rank": 1,
+  "sprite_id": 214810,
+  "subject": "chain necklace",
+  "caption": "thick gold chain necklace with a dangling end"
+ },
+ {
+  "name": "medallion",
+  "query": "gold chain necklace",
+  "rank": 13,
+  "sprite_id": 893347,
+  "subject": "pendant necklace",
+  "caption": "enchanted gold pendant necklace with engraved swirls"
+ },
+ {
+  "name": "amulet",
+  "query": "amulet",
+  "rank": 1,
+  "sprite_id": 15910,
+  "subject": "amulet",
+  "caption": "side-view oval bone amulet on a gold chain"
+ },
+ {
+  "name": "bat",
+  "query": "baseball bat",
+  "rank": 0,
+  "sprite_id": 70378,
+  "subject": "baseball bat",
+  "caption": "baseball bat"
+ },
+ {
+  "name": "cricketbat",
+  "query": "cricket bat",
+  "rank": 0,
+  "sprite_id": 303047,
+  "subject": "cricket bat",
+  "caption": "cricket bat"
+ },
+ {
+  "name": "dlock",
+  "query": "bike lock",
+  "rank": 0,
+  "sprite_id": 95313,
+  "subject": "bike lock",
+  "caption": "bike lock"
+ },
+ {
+  "name": "crowbar",
+  "query": "crowbar",
+  "rank": 0,
+  "sprite_id": 308677,
+  "subject": "crowbar",
+  "caption": "crowbar"
+ },
+ {
+  "name": "pan",
+  "query": "frying pan",
+  "rank": 0,
+  "sprite_id": 496443,
+  "subject": "frying pan",
+  "caption": "frying pan"
+ },
+ {
+  "name": "vest",
+  "query": "bulletproof vest",
+  "rank": 10,
+  "sprite_id": 160056,
+  "subject": "bulletproof vest",
+  "caption": "battle-worn black bulletproof vest with a small patch"
+ },
+ {
+  "name": "cap",
+  "query": "baseball cap",
+  "rank": 0,
+  "sprite_id": 70597,
+  "subject": "baseball cap",
+  "caption": "baseball cap"
+ },
+ {
+  "name": "buckethat",
+  "query": "bucket hat",
+  "rank": 7,
+  "sprite_id": 156373,
+  "subject": "bucket hat",
+  "caption": "worn black bucket hat with polka dots"
+ },
+ {
+  "name": "shades",
+  "query": "sunglasses",
+  "rank": 0,
+  "sprite_id": 1230844,
+  "subject": "sunglasses",
+  "caption": "tilted sunglasses in flat colors"
+ },
+ {
+  "name": "watch",
+  "query": "gold wristwatch",
+  "rank": 5,
+  "sprite_id": 1399830,
+  "subject": "wristwatch",
+  "caption": "front-view round-faced gold wristwatch"
+ },
+ {
+  "name": "ring",
+  "query": "signet ring",
+  "rank": 7,
+  "sprite_id": 1107721,
+  "subject": "signet ring",
+  "caption": "top-down gold signet ring with a thick shank"
+ },
+ {
+  "name": "backpack",
+  "query": "backpack",
+  "rank": 0,
+  "sprite_id": 46750,
+  "subject": "backpack",
+  "caption": "backpack"
+ },
+ {
+  "name": "golfclub",
+  "query": "golf club",
+  "rank": 0,
+  "sprite_id": 543290,
+  "subject": "golf club",
+  "caption": "golf club"
+ },
+ {
+  "name": "brolly",
+  "query": "umbrella",
+  "rank": 0,
+  "sprite_id": 1323278,
+  "subject": "umbrella",
+  "caption": "umbrella"
+ },
+ {
+  "name": "rollingpin",
+  "query": "rolling pin",
+  "rank": 0,
+  "sprite_id": 1019960,
+  "subject": "rolling pin",
+  "caption": "rolling pin"
+ },
+ {
+  "name": "bottle",
+  "query": "glass bottle",
+  "rank": 8,
+  "sprite_id": 527007,
+  "subject": "glass bottle of soda",
+  "caption": "tall slim green glass bottle of soda with a shiny highlight"
+ },
+ {
+  "name": "brickitem",
+  "query": "brick",
+  "rank": 0,
+  "sprite_id": 148475,
+  "subject": "brick",
+  "caption": "brick"
+ },
+ {
+  "name": "newspaper",
+  "query": "newspaper",
+  "rank": 0,
+  "sprite_id": 824946,
+  "subject": "newspaper",
+  "caption": "front-view folded newspaper"
+ },
+ {
+  "name": "book",
+  "query": "ancient book",
+  "rank": 0,
+  "sprite_id": 122619,
+  "subject": "book",
+  "caption": "ancient book with raised spine bands"
+ },
+ {
+  "name": "map",
+  "query": "treasure map",
+  "rank": 0,
+  "sprite_id": 1302925,
+  "subject": "treasure map",
+  "caption": "old treasure map"
+ },
+ {
+  "name": "ticket",
+  "query": "train ticket",
+  "rank": 1,
+  "sprite_id": 4075,
+  "subject": "admission ticket",
+  "caption": "top-down double admission ticket"
+ },
+ {
+  "name": "key",
+  "query": "door key",
+  "rank": 1,
+  "sprite_id": 360904,
+  "subject": "door key",
+  "caption": "bent gold door key with a ring loop"
+ },
+ {
+  "name": "card",
+  "query": "credit card",
+  "rank": 4,
+  "sprite_id": 167749,
+  "subject": "business card",
+  "caption": "square-cornered business card"
+ },
+ {
+  "name": "scratchcard",
+  "query": "lottery ticket",
+  "rank": 14,
+  "sprite_id": 983695,
+  "subject": "raffle ticket",
+  "caption": "pair blue raffle ticket with a torn corner"
+ },
+ {
+  "name": "laptop",
+  "query": "laptop",
+  "rank": 0,
+  "sprite_id": 698003,
+  "subject": "laptop",
+  "caption": "laptop"
+ },
+ {
+  "name": "megaphone",
+  "query": "megaphone",
+  "rank": 0,
+  "sprite_id": 771756,
+  "subject": "megaphone",
+  "caption": "megaphone"
+ },
+ {
+  "name": "trophy",
+  "query": "trophy",
+  "rank": 0,
+  "sprite_id": 1311081,
+  "subject": "trophy cup",
+  "caption": "trophy cup"
+ },
+ {
+  "name": "potnoodle",
+  "query": "instant noodles cup",
+  "rank": 1,
+  "sprite_id": 646349,
+  "subject": "instant noodle cup",
+  "caption": "instant noodle cup"
+ },
+ {
+  "name": "sausageroll",
+  "query": "sausage roll",
+  "rank": 2,
+  "sprite_id": 349273,
+  "subject": "dinner roll",
+  "caption": "golden brown dinner roll with sparkles around it"
+ },
+ {
+  "name": "crisps",
+  "query": "bag of chips",
+  "rank": 0,
+  "sprite_id": 48018,
+  "subject": "bag of chips",
+  "caption": "bag of chips"
+ },
+ {
+  "name": "chocolate",
+  "query": "chocolate bar",
+  "rank": 0,
+  "sprite_id": 238999,
+  "subject": "chocolate bar",
+  "caption": "tiny chocolate bar"
+ },
+ {
+  "name": "champagne",
+  "query": "champagne bottle",
+  "rank": 0,
+  "sprite_id": 219362,
+  "subject": "champagne bottle",
+  "caption": "vintage champagne bottle"
+ },
+ {
+  "name": "icecream",
+  "query": "ice cream cone",
+  "rank": 0,
+  "sprite_id": 633532,
+  "subject": "ice cream cone",
+  "caption": "ice cream cone"
+ },
+ {
+  "name": "coffee",
+  "query": "coffee cup",
+  "rank": 0,
+  "sprite_id": 320303,
+  "subject": "cup of coffee",
+  "caption": "cup of coffee"
+ },
+ {
+  "name": "scone",
+  "query": "scone",
+  "rank": 0,
+  "sprite_id": 1064316,
+  "subject": "scone",
+  "caption": "scone"
+ },
+ {
+  "name": "fx_boom",
+  "query": "explosion",
+  "rank": 7,
+  "sprite_id": 641293,
+  "subject": "impact burst",
+  "caption": "impact burst"
+ },
+ {
+  "name": "fx_slash",
+  "query": "slash effect",
+  "rank": 1,
+  "sprite_id": 1401111,
+  "subject": "x slash mark",
+  "caption": "wide white x slash mark with tapered ends"
+ },
+ {
+  "name": "fx_slash_r",
+  "query": "slash effect",
+  "rank": 4,
+  "sprite_id": 1401114,
+  "subject": "x slash mark",
+  "caption": "crossed red x slash mark with a burst center"
+ },
+ {
+  "name": "fx_sparkle",
+  "query": "sparkle",
+  "rank": 0,
+  "sprite_id": 1194587,
+  "subject": "star sparkle",
+  "caption": "tilted star sparkle"
+ },
+ {
+  "name": "fx_sparkle_b",
+  "query": "sparkle",
+  "rank": 1,
+  "sprite_id": 744178,
+  "subject": "magic sparkle",
+  "caption": "blue magic sparkle"
+ },
+ {
+  "name": "fx_smoke",
+  "query": "smoke cloud",
+  "rank": 0,
+  "sprite_id": 259127,
+  "subject": "cloud",
+  "caption": "cloud"
+ },
+ {
+  "name": "fx_bolt",
+  "query": "lightning bolt",
+  "rank": 0,
+  "sprite_id": 718108,
+  "subject": "lightning bolt",
+  "caption": "lightning bolt"
+ },
+ {
+  "name": "fx_fist",
+  "query": "fist punch",
+  "rank": 5,
+  "sprite_id": 961210,
+  "subject": "power fist",
+  "caption": "open-handed power fist with thick fingers in flat colors"
+ },
+ {
+  "name": "fx_fire",
+  "query": "fire",
+  "rank": 5,
+  "sprite_id": 448773,
+  "subject": "fire spirit",
+  "caption": "fire spirit"
+ },
+ {
+  "name": "fx_poison",
+  "query": "poison bubble",
+  "rank": 0,
+  "sprite_id": 945851,
+  "subject": "poison slime",
+  "caption": "tiny poison slime with toxic bubbles rising"
+ },
+ {
+  "name": "fx_note",
+  "query": "music note",
+  "rank": 3,
+  "sprite_id": 813313,
+  "subject": "music note icon",
+  "caption": "orange music note icon with a drop shadow"
+ },
+ {
+  "name": "ic_skull",
+  "query": "skull icon",
+  "rank": 0,
+  "sprite_id": 1118901,
+  "subject": "skull icon",
+  "caption": "skull icon"
+ },
+ {
+  "name": "ic_heart",
+  "query": "heart icon",
+  "rank": 0,
+  "sprite_id": 590482,
+  "subject": "heart icon",
+  "caption": "heart icon"
+ },
+ {
+  "name": "ic_shield",
+  "query": "shield icon",
+  "rank": 1,
+  "sprite_id": 1091621,
+  "subject": "shield icon",
+  "caption": "yellow shield icon inside a rounded square button"
+ },
+ {
+  "name": "ic_speech",
+  "query": "speech bubble",
+  "rank": 0,
+  "sprite_id": 408435,
+  "subject": "ellipsis speech bubble",
+  "caption": "oval ellipsis speech bubble"
+ },
+ {
+  "name": "ic_excl",
+  "query": "exclamation mark",
+  "rank": 5,
+  "sprite_id": 421100,
+  "subject": "exclamation mark",
+  "caption": "tilted yellow exclamation mark with a wedge-shaped bar"
+ },
+ {
+  "name": "ic_hand",
+  "query": "pointing hand cursor",
+  "rank": 6,
+  "sprite_id": 574257,
+  "subject": "hand pointer cursor",
+  "caption": "pointing hand pointer cursor"
+ },
+ {
+  "name": "ic_star",
+  "query": "star icon",
+  "rank": 0,
+  "sprite_id": 1192818,
+  "subject": "star icon",
+  "caption": "star icon"
+ }
+]
